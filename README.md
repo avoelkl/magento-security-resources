@@ -15,6 +15,7 @@
 - [Magento Security Checklist](https://github.com/talesh/magento-security-checklist) - A community sourced checklist of security measures to take before launching your store.
 - [Magento Incident Response Plan Template](https://github.com/talesh/response) - A Magento Incident Response Plan Template by Talesh Seeparsan
 - [Magento 1 Security Patch List](https://docs.google.com/spreadsheets/d/1MTbU9Bq130zrrsJwLIB9d8qnGfYZnkm4jBlfNaBF19M/edit#gid=192164130) - Security Patch List by JH
+- [Magento introduces the new Security-only Patch Release (2019)](https://community.magento.com/t5/Magento-DevBlog/Introducing-the-New-Security-only-Patch-Release/ba-p/141287)
 
 ## Blogs / Research
 - [Magento Security Center](http://magento.com/security/)
