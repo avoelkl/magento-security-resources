@@ -8,6 +8,7 @@
 - [Magento Security Scan](https://account.magento.com/scanner/) - Security scanner by Magento
 - [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues.
 - [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner) - Malware scanner (no longer maintained, paid version at [https://sansec.io/?mwscan](https://sansec.io/?mwscan))
+- [Magento 1/OpenMage - Security.txt generator](https://github.com/kkrieger85/magento-module-security-txt) Magento 1 Module which generates [security.txt](https://securitytxt.org/) file, configurable in Magento Backend 
 
 ## Magento Security Checklists
 
