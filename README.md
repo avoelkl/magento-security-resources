@@ -17,8 +17,9 @@
 - [Magento 1 Security Patch List](https://docs.google.com/spreadsheets/d/1MTbU9Bq130zrrsJwLIB9d8qnGfYZnkm4jBlfNaBF19M/edit#gid=192164130) - Security Patch List by JH
 - [Magento introduces the new Security-only Patch Release (2019)](https://community.magento.com/t5/Magento-DevBlog/Introducing-the-New-Security-only-Patch-Release/ba-p/141287)
 
-## Blogs / Research
+## Websites & Blogs
 - [Magento Security Center](http://magento.com/security/)
+- [Sanguine Security](https://sansec.io/)
 
 ## Other relevant information
 - [security.txt file](https://securitytxt.org/)
