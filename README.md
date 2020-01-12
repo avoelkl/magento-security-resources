@@ -6,6 +6,7 @@
 ## Development
 - [Magento Coding Standard](https://github.com/magento/magento-coding-standard) - The Magento Coding Standard also includes security checks
 - [Magento Vulnerability Database](https://github.com/gwillem/magevulndb) - Central repository for third party Magento extensions with known security issues, including a n98-magerun module
+- [Magento Extension Best Practices](https://devdocs.magento.com/guides/v2.3/ext-best-practices/extension-coding/security-performance-data-bp.html) - for Security, Performance and Data Handling
 
 ## Magento Security Scanner
 - [MageReport](https://www.magereport.com) - Magento vulnerability scanner (free; external scan)
